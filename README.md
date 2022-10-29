@@ -1,2 +1,2 @@
 # HTML Tables
- class work 
+En la carpeta imágenes se encuentran los ejercicios realizados en clase
